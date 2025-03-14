@@ -1,7 +1,4 @@
 Hello, Git
 New feature added
-<<<<<<< HEAD
 Rohan
-=======
 Arora
->>>>>>> rohan
