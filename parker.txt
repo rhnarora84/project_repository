@@ -1,1 +1,2 @@
 a new pen
+the color is blue
